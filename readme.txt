@@ -11,7 +11,10 @@ Accept automated QRIS payments through the PunyaKios merchant service.
 
 == Description ==
 
-PunyaKios Payment Gateway allows Indonesian merchants to accept automated QRIS (Quick Response Code Indonesian Standard) payments directly on their WooCommerce stores.
+PunyaKios provides a seamless payment experience for Indonesian customers, allowing them to pay using any QRIS-supported application.
+
+== Support ==
+For technical support or inquiries, please visit https://punyakios.web.id or contact us via the merchant dashboard.
 
 This plugin supports real-time payment notifications (callbacks), automatically updating order statuses once a customer successfully completes a payment via scan.
 

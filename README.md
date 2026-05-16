@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="150" alt="PunyaKios Logo">
+</p>
+
 # PunyaKios Payment Gateway for WooCommerce
 
 Accept automated QRIS payments through the PunyaKios merchant service directly on your WooCommerce store.
@@ -23,3 +27,6 @@ Accept automated QRIS payments through the PunyaKios merchant service directly o
 
 ## License
 MIT License.
+
+## Support
+For technical support or inquiries, please visit [punyakios.web.id](https://punyakios.web.id) or contact us via the merchant dashboard.
